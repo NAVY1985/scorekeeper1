@@ -27,4 +27,4 @@ En esta parte se describe la funcionalidad del proyecto descrito en pasos.
 
 ### Descripcion:
 
-![Diagrama de flujo del problema](assets/img/Diagrama en blanco.png)
+![Diagrama de flujo del problema](assets/img/Diagrama-en-blanco.png)
